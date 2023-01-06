@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9c5250ea.css",
+    "main.js": "/static/js/main.a7a49739.js",
+    "static/js/787.1297335f.chunk.js": "/static/js/787.1297335f.chunk.js",
+    "static/media/sistemaSolar.png": "/static/media/sistemaSolar.e67b151439b0f7775890.png",
+    "static/media/InfoMoviesDB.png": "/static/media/InfoMoviesDB.903ab99e410d91e44e7c.png",
+    "static/media/InfinityBooks.png": "/static/media/InfinityBooks.bf7dec29751d8638eee1.png",
+    "static/media/yo.jpeg": "/static/media/yo.7c83d6070d75d0fcf485.jpeg",
+    "static/media/Cascadia.ttf": "/static/media/Cascadia.bd7ac0c7c5582313a197.ttf",
+    "static/media/Daniel_Leone_CV.pdf": "/static/media/Daniel_Leone_CV.88353f16c6b20da35664.pdf",
+    "index.html": "/index.html",
+    "main.9c5250ea.css.map": "/static/css/main.9c5250ea.css.map",
+    "main.a7a49739.js.map": "/static/js/main.a7a49739.js.map",
+    "787.1297335f.chunk.js.map": "/static/js/787.1297335f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c5250ea.css",
+    "static/js/main.a7a49739.js"
+  ]
+}
